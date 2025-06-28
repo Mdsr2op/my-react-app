@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center mb-6">
               <Sparkles className="mr-2 text-indigo-400" size={32} />
-              <h3 className="text-3xl font-black">BookMart</h3>
+              <h3 className="text-3xl font-black">Booktime</h3>
             </div>
             <p className="text-gray-400 mb-6">
               Your trusted partner for all educational needs. Quality books, stationery, and school supplies delivered to your doorstep.
@@ -71,14 +71,14 @@ const Footer = () => {
                 <Phone size={20} className="mr-3 text-indigo-400 flex-shrink-0 mt-1" />
                 <div>
                   <p className="text-gray-400">Hotline</p>
-                  <p className="font-semibold">+1 800 BOOKMART</p>
+                  <p className="font-semibold">+1 800 BOOKTIME</p>
                 </div>
               </div>
               <div className="flex items-start">
                 <Mail size={20} className="mr-3 text-indigo-400 flex-shrink-0 mt-1" />
                 <div>
                   <p className="text-gray-400">Email</p>
-                  <p className="font-semibold">info@bookmart.com</p>
+                  <p className="font-semibold">info@booktime.com</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -109,7 +109,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-center md:text-left mb-4 md:mb-0">
-            &copy; 2025 BookMart. All rights reserved. Made with ❤️ in USA
+            &copy; 2025 Booktime. All rights reserved. Made with ❤️.
           </p>
           <div className="flex space-x-6 text-sm">
             <a href="#" className="text-gray-400 hover:text-white transition-colors">Privacy Policy</a>
